@@ -1,0 +1,516 @@
+[{
+    "nameTW": "淡水",
+    "row": 4,
+    "col": 1,
+    "txtDirection" : 8
+}, {
+    "nameTW": "紅樹林",
+    "row": 5,
+    "col": 2,
+    "txtDirection" : 1
+}, {
+    "nameTW": "竹圍",
+    "row": 6,
+    "col": 3,
+    "txtDirection" : 1
+}, {
+    "nameTW": "關渡",
+    "row": 7,
+    "col": 4,
+    "txtDirection" : 5
+}, {
+    "nameTW": "忠義",
+    "row": 8,
+    "col": 4,
+    "txtDirection" : 8
+}, {
+    "nameTW": "復興崗",
+    "row": 9,
+    "col": 4,
+    "txtDirection" : 4
+}, {
+    "nameTW": "北投",
+    "row": 10,
+    "col": 4,
+    "txtDirection" : 1
+}, {
+    "nameTW": "新北投",
+    "row": 10,
+    "col": 3,
+    "txtDirection" : 8
+}, {
+    "nameTW": "奇岩",
+    "row": 11,
+    "col": 5,
+    "txtDirection" : 1
+}, {
+    "nameTW": "唭哩岸",
+    "row": 12,
+    "col": 6,
+    "txtDirection" : 1
+}, {
+    "nameTW": "石牌",
+    "row": 13,
+    "col": 7,
+    "txtDirection" : 2
+}, {
+    "nameTW": "明德",
+    "row": 13,
+    "col": 8,
+    "txtDirection" : 2
+}, {
+    "nameTW": "芝山",
+    "row": 13,
+    "col": 9,
+    "txtDirection" : 2
+}, {
+    "nameTW": "士林",
+    "row": 13,
+    "col": 10,
+    "txtDirection" : 2
+}, {
+    "nameTW": "劍潭",
+    "row": 13,
+    "col": 11,
+    "txtDirection" : 2
+}, {
+    "nameTW": "圓山",
+    "row": 13,
+    "col": 12,
+    "txtDirection" : 2
+}, {
+    "nameTW": "民權西路",
+    "row": 13,
+    "col": 13,
+    "txtDirection" : 7
+}, {
+    "nameTW": "大橋頭",
+    "row": 11,
+    "col": 13,
+    "txtDirection" : 6
+}, {
+    "nameTW": "三重國小",
+    "row": 10,
+    "col": 12,
+    "txtDirection" : 5
+}, {
+    "nameTW": "三和國中",
+    "row": 9,
+    "col": 11,
+    "txtDirection" : 5
+}, {
+    "nameTW": "徐匯中學",
+    "row": 8,
+    "col": 10,
+    "txtDirection" : 5
+}, {
+    "nameTW": "三民高中",
+    "row": 7,
+    "col": 9,
+    "txtDirection" : 5
+}, {
+    "nameTW": "蘆洲",
+    "row": 6,
+    "col": 8,
+    "txtDirection" : 6
+}, {
+    "nameTW": "台北橋",
+    "row": 10,
+    "col": 14,
+    "txtDirection" : 7
+}, {
+    "nameTW": "菜寮",
+    "row": 9,
+    "col": 15,
+    "txtDirection" : 7
+}, {
+    "nameTW": "三重",
+    "row": 8,
+    "col": 16,
+    "txtDirection" : 7
+}, {
+    "nameTW": "先嗇宮",
+    "row": 7,
+    "col": 17,
+    "txtDirection" : 7
+}, {
+    "nameTW": "頭前庄",
+    "row": 6,
+    "col": 18,
+    "txtDirection" : 7
+}, {
+    "nameTW": "新莊",
+    "row": 5,
+    "col": 19,
+    "txtDirection" : 7
+}, {
+    "nameTW": "輔大",
+    "row": 4,
+    "col": 20,
+    "txtDirection" : 7
+}, {
+    "nameTW": "丹鳳",
+    "row": 3,
+    "col": 21,
+    "txtDirection" : 7
+}, {
+    "nameTW": "迴龍",
+    "row": 2,
+    "col": 22,
+    "txtDirection" : 6 
+}, {
+    "nameTW": "中山國小",
+    "row": 14,
+    "col": 13,
+    "txtDirection" : 2
+}, {
+    "nameTW": "行天宮",
+    "row": 15,
+    "col": 14,
+    "txtDirection" : 2
+}, {
+    "nameTW": "松江南京",
+    "row": 15,
+    "col": 16,
+    "txtDirection" : 2
+}, {
+    "nameTW": "忠孝新生",
+    "row": 15,
+    "col": 17,
+    "txtDirection" : 3
+}, {
+    "nameTW": "東門",
+    "row": 15,
+    "col": 19,
+    "txtDirection" : 3
+}, {
+    "nameTW": "古亭",
+    "row": 14,
+    "col": 20,
+    "txtDirection" : 2
+}, {
+    "nameTW": "頂溪",
+    "row": 12,
+    "col": 22,
+    "txtDirection" : 3
+}, {
+    "nameTW": "永安市場",
+    "row": 11,
+    "col": 23,
+    "txtDirection" : 3
+}, {
+    "nameTW": "景安",
+    "row": 10,
+    "col": 24,
+    "txtDirection" : 3
+}, {
+    "nameTW": "南勢角",
+    "row": 9,
+    "col": 25,
+    "txtDirection" : 4
+}, {
+    "nameTW": "雙連",
+    "row": 13,
+    "col": 14,
+    "txtDirection" : 6
+}, {
+    "nameTW": "中山",
+    "row": 13,
+    "col": 15,
+    "txtDirection" : 6
+}, {
+    "nameTW": "台北車站",
+    "row": 13,
+    "col": 17,
+    "txtDirection" : 7
+}, {
+    "nameTW": "西門",
+    "row": 11,
+    "col": 17,
+    "txtDirection" : 6
+}, {
+    "nameTW": "龍山寺",
+    "row": 10,
+    "col": 18,
+    "txtDirection" : 7
+}, {
+    "nameTW": "江子翠",
+    "row": 9,
+    "col": 19,
+    "txtDirection" : 7
+}, {
+    "nameTW": "新埔",
+    "row": 8,
+    "col": 20,
+    "txtDirection" : 7
+}, {
+    "nameTW": "板橋",
+    "row": 7,
+    "col": 21,
+    "txtDirection" : 7
+}, {
+    "nameTW": "府中",
+    "row": 6,
+    "col": 22,
+    "txtDirection" : 7
+}, {
+    "nameTW": "亞東醫院",
+    "row": 5,
+    "col": 23,
+    "txtDirection" : 6
+}, {
+    "nameTW": "海山",
+    "row": 5,
+    "col": 24,
+    "txtDirection" : 6
+}, {
+    "nameTW": "土城",
+    "row": 5,
+    "col": 25,
+    "txtDirection" : 6
+}, {
+    "nameTW": "永寧",
+    "row": 5,
+    "col": 26,
+    "txtDirection" : 4
+}, {
+    "nameTW": "善導寺",
+    "row": 14,
+    "col": 17,
+    "txtDirection" : 8
+}, {
+    "nameTW": "忠孝復興",
+    "row": 19,
+    "col": 17,
+    "txtDirection" : 7
+}, {
+    "nameTW": "忠孝敦化",
+    "row": 20,
+    "col": 17,
+    "txtDirection" : 4
+}, {
+    "nameTW": "國父紀念館",
+    "row": 21,
+    "col": 17,
+    "txtDirection" : 8
+}, {
+    "nameTW": "市政府",
+    "row": 23,
+    "col": 17,
+    "txtDirection" : 4
+}, {
+    "nameTW": "永春",
+    "row": 24,
+    "col": 17,
+    "txtDirection" : 8
+}, {
+    "nameTW": "後山埤",
+    "row": 25,
+    "col": 17,
+    "txtDirection" : 4
+}, {
+    "nameTW": "昆陽",
+    "row": 26,
+    "col": 17,
+    "txtDirection" : 8
+}, {
+    "nameTW": "南港",
+    "row": 27,
+    "col": 17,
+    "txtDirection" : 4
+}, {
+    "nameTW": "南港展覽館",
+    "row": 28,
+    "col": 17,
+    "txtDirection" : 3
+}, {
+    "nameTW": "南京東路",
+    "row": 19,
+    "col": 16,
+    "txtDirection" : 1
+}, {
+    "nameTW": "中山國中",
+    "row": 19,
+    "col": 15,
+    "txtDirection" : 1
+}, {
+    "nameTW": "松山機場",
+    "row": 19,
+    "col": 14,
+    "txtDirection" : 1
+}, {
+    "nameTW": "大直",
+    "row": 19,
+    "col": 12,
+    "txtDirection" : 3
+}, {
+    "nameTW": "劍南路",
+    "row": 20,
+    "col": 11,
+    "txtDirection" : 3
+}, {
+    "nameTW": "西湖",
+    "row": 21,
+    "col": 11,
+    "txtDirection" : 8
+}, {
+    "nameTW": "港墘",
+    "row": 23,
+    "col": 11,
+    "txtDirection" : 8
+}, {
+    "nameTW": "文德",
+    "row": 25,
+    "col": 11,
+    "txtDirection" : 8
+}, {
+    "nameTW": "內湖",
+    "row": 26,
+    "col": 11,
+    "txtDirection" : 1
+}, {
+    "nameTW": "大湖公園",
+    "row": 27,
+    "col": 12,
+    "txtDirection" : 1
+}, {
+    "nameTW": "葫洲",
+    "row": 28,
+    "col": 13,
+    "txtDirection" : 1
+}, {
+    "nameTW": "東湖",
+    "row": 28,
+    "col": 14,
+    "txtDirection" : 2
+}, {
+    "nameTW": "南港軟體園區",
+    "row": 28,
+    "col": 15,
+    "txtDirection" : 2
+}, {
+    "nameTW": "大安",
+    "row": 19,
+    "col": 19,
+    "txtDirection" : 7
+}, {
+    "nameTW": "科技大樓",
+    "row": 19,
+    "col": 20,
+    "txtDirection" : 6
+}, {
+    "nameTW": "六張犁",
+    "row": 19,
+    "col": 21,
+    "txtDirection" : 6
+}, {
+    "nameTW": "麟光",
+    "row": 20,
+    "col": 22,
+    "txtDirection" : 1
+}, {
+    "nameTW": "辛亥",
+    "row": 21,
+    "col": 23,
+    "txtDirection" : 1
+}, {
+    "nameTW": "萬芳醫院",
+    "row": 22,
+    "col": 24,
+    "txtDirection" : 5
+}, {
+    "nameTW": "萬芳社區",
+    "row": 24,
+    "col": 24,
+    "txtDirection" : 8
+}, {
+    "nameTW": "木柵",
+    "row": 26,
+    "col": 24,
+    "txtDirection" : 4
+}, {
+    "nameTW": "動物園",
+    "row": 28,
+    "col": 24,
+    "txtDirection" : 2
+}, {
+    "nameTW": "台大醫院",
+    "row": 13,
+    "col": 18,
+    "txtDirection" : 2
+}, {
+    "nameTW": "中正紀念堂",
+    "row": 13,
+    "col": 19,
+    "txtDirection" : 5
+}, {
+    "nameTW": "小南門",
+    "row": 12,
+    "col": 18,
+    "txtDirection" : 5
+}, {
+    "nameTW": "大安森林公園",
+    "row": 17,
+    "col": 19,
+    "txtDirection" : 8
+}, {
+    "nameTW": "信義安和",
+    "row": 21,
+    "col": 19,
+    "txtDirection" : 8
+}, {
+    "nameTW": "台北101/世貿",
+    "row": 23,
+    "col": 19,
+    "txtDirection" : 4
+}, {
+    "nameTW": "象山",
+    "row": 25,
+    "col": 19,
+    "txtDirection" : 2
+}, {
+    "nameTW": "台電大樓",
+    "row": 16,
+    "col": 22,
+    "txtDirection" : 1
+}, {
+    "nameTW": "公館",
+    "row": 17,
+    "col": 23,
+    "txtDirection" : 1
+}, {
+    "nameTW": "萬隆",
+    "row": 18,
+    "col": 24,
+    "txtDirection" : 1
+}, {
+    "nameTW": "景美",
+    "row": 18,
+    "col": 25,
+    "txtDirection" : 2
+}, {
+    "nameTW": "大坪林",
+    "row": 18,
+    "col": 26,
+    "txtDirection" : 2
+}, {
+    "nameTW": "七張",
+    "row": 18,
+    "col": 27,
+    "txtDirection" : 2
+}, {
+    "nameTW": "新店區公所",
+    "row": 18,
+    "col": 28,
+    "txtDirection" : 2
+}, {
+    "nameTW": "新店",
+    "row": 18,
+    "col": 29,
+    "txtDirection" : 4
+}, {
+    "nameTW": "小碧潭",
+    "row": 17,
+    "col": 27,
+    "txtDirection" : 6
+}]

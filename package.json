@@ -1,0 +1,16 @@
+{
+    "name": "LogHandlingOMG",
+    "version": "0.0.1",
+    "description": "Error handling for debug",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "NeoHsu",
+    "dependencies": {
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.1.x"
+    }
+}
