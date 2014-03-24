@@ -1,0 +1,91 @@
+[{
+    "id": 0,
+    "lineName": "淡水線",
+    "toStation": "新店",
+    "color": "#DF0101"
+}, {
+    "id": 1,
+    "lineName": "淡水線",
+    "toStation": "淡水",
+    "color": "#DF0101"
+}, {
+    "id": 2,
+    "lineName": "新北投線",
+    "toStation": "新北投",
+    "color": "#F4A5A8"
+}, {
+    "id": 3,
+    "lineName": "新北投線",
+    "toStation": "北投",
+    "color": "#F4A5A8"
+}, {
+    "id": 4,
+    "lineName": "信義線",
+    "toStation": "象山",
+    "color": "#DF0101"
+}, {
+    "id": 5,
+    "lineName": "信義線",
+    "toStation": "北投",
+    "color": "#DF0101"
+}, {
+    "id": 6,
+    "lineName": "新蘆線",
+    "toStation": "南勢角",
+    "color": "#FFBF00"
+}, {
+    "id": 7,
+    "lineName": "新蘆線",
+    "toStation": "蘆洲",
+    "color": "#FFBF00"
+}, {
+    "id": 8,
+    "lineName": "新蘆線",
+    "toStation": "迴龍",
+    "color": "#FFBF00"
+}, {
+    "id": 9,
+    "lineName": "板南線",
+    "toStation": "南港展覽館",
+    "color": "#0080FF"
+}, {
+    "id": 10,
+    "lineName": "板南線",
+    "toStation": "永寧",
+    "color": "#0080FF"
+}, {
+    "id": 11,
+    "lineName": "板南線",
+    "toStation": "亞東醫院",
+    "color": "#0080FF"
+}, {
+    "id": 12,
+    "lineName": "小南門線",
+    "toStation": "西門",
+    "color": "#D9E01E"
+}, {
+    "id": 13,
+    "lineName": "小南門線",
+    "toStation": "台電大樓",
+    "color": "#D9E01E"
+}, {
+    "id": 14,
+    "lineName": "文湖線",
+    "toStation": "南港展覽館",
+    "color": "#C39132"
+}, {
+    "id": 15,
+    "lineName": "文湖線",
+    "toStation": "動物園",
+    "color": "#C39132"
+}, {
+    "id": 16,
+    "lineName": "小碧潭線",
+    "toStation": "七張",
+    "color": "#D9E01E"
+}, {
+    "id": 17,
+    "lineName": "小碧潭線",
+    "toStation": "小碧潭",
+    "color": "#D9E01E"
+}]

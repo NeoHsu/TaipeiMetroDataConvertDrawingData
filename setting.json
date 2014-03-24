@@ -1,0 +1,7 @@
+{
+	"originalStationDataList" : "./original/stationsData.json",
+	"originalPathCoordinateList" : "./original/stationsCoordinateList.json",
+	"originalLineDataList" : "./original/lineData.json",
+	"exportDataForTaipeiMRT" : "/Users/Neo/JavaScript/2014-03-20-[RaphaelJS]_Taipei_MRT_Map/TaipeiMRT/js/Data.js",
+	"exportDirectory" : "./export/"
+}

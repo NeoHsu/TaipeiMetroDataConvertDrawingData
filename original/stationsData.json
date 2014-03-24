@@ -1,2399 +1,1976 @@
-[
-  {
+[{
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          0
+            0
         ],
         "distance": 2070,
         "nameTW": "紅樹林"
-      }
-    ],
+    }],
     "nameEn": "Tamsui",
     "nameTW": "淡水",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 2070,
         "nameTW": "淡水"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1940,
         "nameTW": "竹圍"
-      }
-    ],
+    }],
     "nameEn": "Hongshulin",
     "nameTW": "紅樹林",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1940,
         "nameTW": "紅樹林"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 2050,
         "nameTW": "關渡"
-      }
-    ],
+    }],
     "nameEn": "Zhuwei",
     "nameTW": "竹圍",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 2050,
         "nameTW": "竹圍"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 880,
         "nameTW": "忠義"
-      }
-    ],
+    }],
     "nameEn": "Guandu",
     "nameTW": "關渡",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 880,
         "nameTW": "關渡"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1450,
         "nameTW": "復興崗"
-      }
-    ],
+    }],
     "nameEn": "Zhongyi",
     "nameTW": "忠義",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1450,
         "nameTW": "忠義"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1630,
         "nameTW": "北投"
-      }
-    ],
+    }],
     "nameEn": "Fuxinggang",
     "nameTW": "復興崗",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1630,
         "nameTW": "復興崗"
-      },
-      {
+    }, {
         "direction": [
-          2
+            2
         ],
         "distance": 1030,
         "nameTW": "新北投"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 770,
         "nameTW": "奇岩"
-      }
-    ],
+    }],
     "nameEn": "Beitou",
     "nameTW": "北投",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          3
+            3
         ],
         "distance": 1030,
         "nameTW": "北投"
-      }
-    ],
+    }],
     "nameEn": "Xinbeitou",
     "nameTW": "新北投",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 770,
         "nameTW": "北投"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 860,
         "nameTW": "唭哩岸"
-      }
-    ],
+    }],
     "nameEn": "Qiyan",
     "nameTW": "奇岩",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 860,
         "nameTW": "奇岩"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 1240,
         "nameTW": "石牌"
-      }
-    ],
+    }],
     "nameEn": "Qilian",
     "nameTW": "唭哩岸",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 1240,
         "nameTW": "唭哩岸"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 610,
         "nameTW": "明德"
-      }
-    ],
+    }],
     "nameEn": "Shipai",
     "nameTW": "石牌",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 610,
         "nameTW": "石牌"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 890,
         "nameTW": "芝山"
-      }
-    ],
+    }],
     "nameEn": "Mingde",
     "nameTW": "明德",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 890,
         "nameTW": "明德"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 980,
         "nameTW": "士林"
-      }
-    ],
+    }],
     "nameEn": "Zhishan",
     "nameTW": "芝山",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 980,
         "nameTW": "芝山"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 1200,
         "nameTW": "劍潭"
-      }
-    ],
+    }],
     "nameEn": "Shilin",
     "nameTW": "士林",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 1200,
         "nameTW": "士林"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 1520,
         "nameTW": "圓山"
-      }
-    ],
+    }],
     "nameEn": "Jiantan",
     "nameTW": "劍潭",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 1520,
         "nameTW": "劍潭"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 1020,
         "nameTW": "民權西路"
-      }
-    ],
+    }],
     "nameEn": "Yuanshan",
     "nameTW": "圓山",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 1020,
         "nameTW": "圓山"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 560,
         "nameTW": "雙連"
-      },
-      {
+    }, {
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 690,
         "nameTW": "大橋頭"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 660,
         "nameTW": "中山國小"
-      }
-    ],
+    }],
     "nameEn": "Minquan W. Rd.",
     "nameTW": "民權西路",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 560,
         "nameTW": "民權西路"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 550,
         "nameTW": "中山"
-      }
-    ],
+    }],
     "nameEn": "Shuanglian",
     "nameTW": "雙連",
     "row": 2
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 550,
         "nameTW": "雙連"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 630,
         "nameTW": "台北車站"
-      }
-    ],
+    }],
     "nameEn": "Zhongshan",
     "nameTW": "中山",
     "row": 2
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 630,
         "nameTW": "中山"
-      },
-      {
+    }, {
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1440,
         "nameTW": "西門"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 630,
         "nameTW": "台大醫院"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 680,
         "nameTW": "善導寺"
-      }
-    ],
+    }],
     "nameEn": "Taipei Main Station",
     "nameTW": "台北車站",
     "row": 7
-  },
-  {
+}, {
     "col": 2,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 630,
         "nameTW": "台北車站"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          4
+            0,
+            4
         ],
         "distance": 950,
         "nameTW": "中正紀念堂"
-      }
-    ],
+    }],
     "nameEn": "NTU Hospital",
     "nameTW": "台大醫院",
     "row": 2
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          5
+            1,
+            5
         ],
         "distance": 950,
         "nameTW": "台大醫院"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 1200,
         "nameTW": "東門"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          13
+            0,
+            13
         ],
         "distance": 1170,
         "nameTW": "古亭"
-      },
-      {
+    }, {
         "direction": [
-          12
+            12
         ],
         "distance": 830,
         "nameTW": "小南門"
-      }
-    ],
+    }],
     "nameEn": "Chiang Kai-Shek Memorial Hall",
     "nameTW": "中正紀念堂",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 1200,
         "nameTW": "中正紀念堂"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 660,
         "nameTW": "大安森林公園"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1250,
         "nameTW": "古亭"
-      },
-      {
+    }, {
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 1180,
         "nameTW": "忠孝新生"
-      }
-    ],
+    }],
     "nameEn": "Dongmen",
     "nameTW": "東門",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 660,
         "nameTW": "東門"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 800,
         "nameTW": "大安"
-      }
-    ],
+    }],
     "nameEn": "Daan Park",
     "nameTW": "大安森林公園",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 800,
         "nameTW": "大安森林公園"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 800,
         "nameTW": "信義安和"
-      },
-      {
+    }, {
         "direction": [
-          14
+            14
         ],
         "distance": 900,
         "nameTW": "忠孝復興"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 760,
         "nameTW": "科技大樓"
-      }
-    ],
+    }],
     "nameEn": "Daan",
     "nameTW": "大安",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 800,
         "nameTW": "大安"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 1090,
         "nameTW": "台北101/世貿"
-      }
-    ],
+    }],
     "nameEn": "Xinyi Anhe",
     "nameTW": "信義安和",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 1090,
         "nameTW": "信義安和"
-      },
-      {
+    }, {
         "direction": [
-          4
+            4
         ],
         "distance": 860,
         "nameTW": "象山"
-      }
-    ],
+    }],
     "nameEn": "Taipei 101/World Trade Center",
     "nameTW": "台北101/世貿",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          5
+            5
         ],
         "distance": 860,
         "nameTW": "台北101/世貿"
-      }
-    ],
+    }],
     "nameEn": "Xiangshan",
     "nameTW": "象山",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          12
+            1,
+            12
         ],
         "distance": 1170,
         "nameTW": "中正紀念堂"
-      },
-      {
+    }, {
         "direction": [
-          0,
-          13
+            0,
+            13
         ],
         "distance": 640,
         "nameTW": "台電大樓"
-      },
-      {
+    }, {
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 1250,
         "nameTW": "東門"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 2160,
         "nameTW": "頂溪"
-      }
-    ],
+    }],
     "nameEn": "Guting",
     "nameTW": "古亭",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1,
-          12
+            1,
+            12
         ],
         "distance": 640,
         "nameTW": "古亭"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 900,
         "nameTW": "公館"
-      }
-    ],
+    }],
     "nameEn": "Taipower Building",
     "nameTW": "台電大樓",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 900,
         "nameTW": "台電大樓"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1560,
         "nameTW": "萬隆"
-      }
-    ],
+    }],
     "nameEn": "Gongguan",
     "nameTW": "公館",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1560,
         "nameTW": "公館"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1070,
         "nameTW": "景美"
-      }
-    ],
+    }],
     "nameEn": "Wanlong",
     "nameTW": "萬隆",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1070,
         "nameTW": "萬隆"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1150,
         "nameTW": "大坪林"
-      }
-    ],
+    }],
     "nameEn": "Jingmei",
     "nameTW": "景美",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1150,
         "nameTW": "景美"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 850,
         "nameTW": "七張"
-      }
-    ],
+    }],
     "nameEn": "Dapinglin",
     "nameTW": "大坪林",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 850,
         "nameTW": "大坪林"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 900,
         "nameTW": "新店區公所"
-      },
-      {
+    }, {
         "direction": [
-          17
+            17
         ],
         "distance": 2500,
         "nameTW": "小碧潭"
-      }
-    ],
+    }],
     "nameEn": "Qizhang",
     "nameTW": "七張",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 900,
         "nameTW": "七張"
-      },
-      {
+    }, {
         "direction": [
-          0
+            0
         ],
         "distance": 1120,
         "nameTW": "新店"
-      }
-    ],
+    }],
     "nameEn": "Xindian District Office",
     "nameTW": "新店區公所",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          1
+            1
         ],
         "distance": 1120,
         "nameTW": "新店區公所"
-      }
-    ],
+    }],
     "nameEn": "Xindian",
     "nameTW": "新店",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          16
+            16
         ],
         "distance": 2500,
         "nameTW": "七張"
-      }
-    ],
+    }],
     "nameEn": "Xiaobitan",
     "nameTW": "小碧潭",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          6
+            6
         ],
         "distance": 950,
         "nameTW": "三民高中"
-      }
-    ],
+    }],
     "nameEn": "Luzhou",
     "nameTW": "蘆洲",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7
+            7
         ],
         "distance": 950,
         "nameTW": "蘆洲"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1100,
         "nameTW": "徐匯中學"
-      }
-    ],
+    }],
     "nameEn": "Sanmin Senior High School",
     "nameTW": "三民高中",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7
+            7
         ],
         "distance": 1100,
         "nameTW": "三民高中"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1010,
         "nameTW": "三和國中"
-      }
-    ],
+    }],
     "nameEn": "St. Ignatius High School",
     "nameTW": "徐匯中學",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7
+            7
         ],
         "distance": 1010,
         "nameTW": "徐匯中學"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1200,
         "nameTW": "三重國小"
-      }
-    ],
+    }],
     "nameEn": "Sanhe Junior High School",
     "nameTW": "三和國中",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7
+            7
         ],
         "distance": 1200,
         "nameTW": "三和國中"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1880,
         "nameTW": "大橋頭"
-      }
-    ],
+    }],
     "nameEn": "Sanchong Elementary School",
     "nameTW": "三重國小",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7
+            7
         ],
         "distance": 1880,
         "nameTW": "三重國小"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 690,
         "nameTW": "民權西路"
-      },
-      {
+    }, {
         "direction": [
-          8
+            8
         ],
         "distance": 1340,
         "nameTW": "台北橋"
-      }
-    ],
+    }],
     "nameEn": "Daqiaotou",
     "nameTW": "大橋頭",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 660,
         "nameTW": "民權西路"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 930,
         "nameTW": "行天宮"
-      }
-    ],
+    }],
     "nameEn": "Zhongshan Elementary School",
     "nameTW": "中山國小",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 930,
         "nameTW": "中山國小"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 830,
         "nameTW": "松江南京"
-      }
-    ],
+    }],
     "nameEn": "Xingtian Temple",
     "nameTW": "行天宮",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 830,
         "nameTW": "行天宮"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1150,
         "nameTW": "忠孝新生"
-      }
-    ],
+    }],
     "nameEn": "Songjiang Nanjing",
     "nameTW": "松江南京",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 1150,
         "nameTW": "松江南京"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1180,
         "nameTW": "東門"
-      },
-      {
+    }, {
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 950,
         "nameTW": "善導寺"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1130,
         "nameTW": "忠孝復興"
-      }
-    ],
+    }],
     "nameEn": "Zhongxiao Xinsheng",
     "nameTW": "忠孝新生",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 2160,
         "nameTW": "古亭"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1300,
         "nameTW": "永安市場"
-      }
-    ],
+    }],
     "nameEn": "Dingxi",
     "nameTW": "頂溪",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 1300,
         "nameTW": "頂溪"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1150,
         "nameTW": "景安"
-      }
-    ],
+    }],
     "nameEn": "Yongan Market",
     "nameTW": "永安市場",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 1150,
         "nameTW": "永安市場"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 700,
         "nameTW": "南勢角"
-      }
-    ],
+    }],
     "nameEn": "Jingan",
     "nameTW": "景安",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          7,
-          8
+            7,
+            8
         ],
         "distance": 700,
         "nameTW": "景安"
-      }
-    ],
+    }],
     "nameEn": "Nanshijiao",
     "nameTW": "南勢角",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          6
+            6
         ],
         "distance": 1300,
         "nameTW": "丹鳳"
-      }
-    ],
+    }],
     "nameEn": "Huilong",
     "nameTW": "迴龍",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1300,
         "nameTW": "迴龍"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1250,
         "nameTW": "輔大"
-      }
-    ],
+    }],
     "nameEn": "Danfeng",
     "nameTW": "丹鳳",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1250,
         "nameTW": "丹鳳"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1830,
         "nameTW": "新莊"
-      }
-    ],
+    }],
     "nameEn": "Fu Jen University",
     "nameTW": "輔大",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1830,
         "nameTW": "輔大"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1010,
         "nameTW": "頭前庄"
-      }
-    ],
+    }],
     "nameEn": "Xinzhuang",
     "nameTW": "新莊",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1010,
         "nameTW": "新莊"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1290,
         "nameTW": "先嗇宮"
-      }
-    ],
+    }],
     "nameEn": "Touqianzhuang",
     "nameTW": "頭前庄",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1290,
         "nameTW": "頭前庄"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1680,
         "nameTW": "三重"
-      }
-    ],
+    }],
     "nameEn": "Xianse Temple",
     "nameTW": "先嗇宮",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1680,
         "nameTW": "先嗇宮"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 900,
         "nameTW": "菜寮"
-      }
-    ],
+    }],
     "nameEn": "Sanchong",
     "nameTW": "三重",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 900,
         "nameTW": "三重"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1010,
         "nameTW": "台北橋"
-      }
-    ],
+    }],
     "nameEn": "Cailiao",
     "nameTW": "菜寮",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          8
+            8
         ],
         "distance": 1010,
         "nameTW": "菜寮"
-      },
-      {
+    }, {
         "direction": [
-          6
+            6
         ],
         "distance": 1340,
         "nameTW": "大橋頭"
-      }
-    ],
+    }],
     "nameEn": "Taipei Bridge",
     "nameTW": "台北橋",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          12
+            12
         ],
         "distance": 760,
         "nameTW": "西門"
-      },
-      {
+    }, {
         "direction": [
-          13
+            13
         ],
         "distance": 830,
         "nameTW": "中正紀念堂"
-      }
-    ],
+    }],
     "nameEn": "Xiaonanmen",
     "nameTW": "小南門",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          9
+            9
         ],
         "distance": 1130,
         "nameTW": "土城"
-      }
-    ],
+    }],
     "nameEn": "Yongning",
     "nameTW": "永寧",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10
+            10
         ],
         "distance": 1130,
         "nameTW": "永寧"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1470,
         "nameTW": "海山"
-      }
-    ],
+    }],
     "nameEn": "Tucheng",
     "nameTW": "土城",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10
+            10
         ],
         "distance": 1470,
         "nameTW": "土城"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 910,
         "nameTW": "亞東醫院"
-      }
-    ],
+    }],
     "nameEn": "Haishan",
     "nameTW": "海山",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10
+            10
         ],
         "distance": 910,
         "nameTW": "海山"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1320,
         "nameTW": "府中"
-      }
-    ],
+    }],
     "nameEn": "Far Eastern Hospital",
     "nameTW": "亞東醫院",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1320,
         "nameTW": "亞東醫院"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 660,
         "nameTW": "板橋"
-      }
-    ],
+    }],
     "nameEn": "Fuzhong",
     "nameTW": "府中",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 660,
         "nameTW": "府中"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1280,
         "nameTW": "新埔"
-      }
-    ],
+    }],
     "nameEn": "Banqiao",
     "nameTW": "板橋",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1280,
         "nameTW": "板橋"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 870,
         "nameTW": "江子翠"
-      }
-    ],
+    }],
     "nameEn": "Xinpu",
     "nameTW": "新埔",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 870,
         "nameTW": "新埔"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 3080,
         "nameTW": "龍山寺"
-      }
-    ],
+    }],
     "nameEn": "Jiangzicui",
     "nameTW": "江子翠",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 3080,
         "nameTW": "江子翠"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1270,
         "nameTW": "西門"
-      }
-    ],
+    }],
     "nameEn": "Longshan Temple",
     "nameTW": "龍山寺",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1270,
         "nameTW": "龍山寺"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1440,
         "nameTW": "台北車站"
-      },
-      {
+    }, {
         "direction": [
-          13
+            13
         ],
         "distance": 760,
         "nameTW": "小南門"
-      }
-    ],
+    }],
     "nameEn": "Ximen",
     "nameTW": "西門",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 680,
         "nameTW": "台北車站"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 950,
         "nameTW": "忠孝新生"
-      }
-    ],
+    }],
     "nameEn": "Shandao Temple",
     "nameTW": "善導寺",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1130,
         "nameTW": "忠孝新生"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 670,
         "nameTW": "忠孝敦化"
-      },
-      {
+    }, {
         "direction": [
-          14
+            14
         ],
         "distance": 1150,
         "nameTW": "南京東路"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 900,
         "nameTW": "大安"
-      }
-    ],
+    }],
     "nameEn": "Zhongxiao Fuxing",
     "nameTW": "忠孝復興",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 670,
         "nameTW": "忠孝復興"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 720,
         "nameTW": "國父紀念館"
-      }
-    ],
+    }],
     "nameEn": "Zhongxiao Dunhua",
     "nameTW": "忠孝敦化",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 720,
         "nameTW": "忠孝敦化"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 850,
         "nameTW": "市政府"
-      }
-    ],
+    }],
     "nameEn": "Sun Yat-Sen Memorial Hall",
     "nameTW": "國父紀念館",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 850,
         "nameTW": "國父紀念館"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1140,
         "nameTW": "永春"
-      }
-    ],
+    }],
     "nameEn": "Taipei City Hall",
     "nameTW": "市政府",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1140,
         "nameTW": "市政府"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 820,
         "nameTW": "後山埤"
-      }
-    ],
+    }],
     "nameEn": "Yongchun",
     "nameTW": "永春",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 820,
         "nameTW": "永春"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1310,
         "nameTW": "昆陽"
-      }
-    ],
+    }],
     "nameEn": "Houshanpi",
     "nameTW": "後山埤",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1310,
         "nameTW": "後山埤"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1190,
         "nameTW": "南港"
-      }
-    ],
+    }],
     "nameEn": "Kunyang",
     "nameTW": "昆陽",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1190,
         "nameTW": "昆陽"
-      },
-      {
+    }, {
         "direction": [
-          9
+            9
         ],
         "distance": 1130,
         "nameTW": "南港展覽館"
-      }
-    ],
+    }],
     "nameEn": "Nangang",
     "nameTW": "南港",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          10,
-          11
+            10,
+            11
         ],
         "distance": 1130,
         "nameTW": "南港"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 600,
         "nameTW": "南港軟體園區"
-      }
-    ],
+    }],
     "nameEn": "Taipei Nangang Exhibition Center",
     "nameTW": "南港展覽館",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 600,
         "nameTW": "南港展覽館"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1010,
         "nameTW": "東湖"
-      }
-    ],
+    }],
     "nameEn": "Nangang Software Park",
     "nameTW": "南港軟體園區",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1010,
         "nameTW": "南港軟體園區"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 890,
         "nameTW": "葫洲"
-      }
-    ],
+    }],
     "nameEn": "Donghu",
     "nameTW": "東湖",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 890,
         "nameTW": "東湖"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1630,
         "nameTW": "大湖公園"
-      }
-    ],
+    }],
     "nameEn": "Huzhou",
     "nameTW": "葫洲",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1630,
         "nameTW": "葫洲"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 870,
         "nameTW": "內湖"
-      }
-    ],
+    }],
     "nameEn": "Dahu Park",
     "nameTW": "大湖公園",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 870,
         "nameTW": "大湖公園"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1130,
         "nameTW": "文德"
-      }
-    ],
+    }],
     "nameEn": "Neihu",
     "nameTW": "內湖",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1130,
         "nameTW": "內湖"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1010,
         "nameTW": "港墘"
-      }
-    ],
+    }],
     "nameEn": "Wende",
     "nameTW": "文德",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1010,
         "nameTW": "文德"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 830,
         "nameTW": "西湖"
-      }
-    ],
+    }],
     "nameEn": "Gangqian",
     "nameTW": "港墘",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 830,
         "nameTW": "港墘"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1290,
         "nameTW": "劍南路"
-      }
-    ],
+    }],
     "nameEn": "Xihu",
     "nameTW": "西湖",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1290,
         "nameTW": "西湖"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1330,
         "nameTW": "大直"
-      }
-    ],
+    }],
     "nameEn": "Jiannan Rd.",
     "nameTW": "劍南路",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1330,
         "nameTW": "劍南路"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 2580,
         "nameTW": "松山機場"
-      }
-    ],
+    }],
     "nameEn": "Dazhi",
     "nameTW": "大直",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 2580,
         "nameTW": "大直"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1480,
         "nameTW": "中山國中"
-      }
-    ],
+    }],
     "nameEn": "SongShan Airport",
     "nameTW": "松山機場",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1480,
         "nameTW": "松山機場"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1050,
         "nameTW": "南京東路"
-      }
-    ],
+    }],
     "nameEn": "Zhongshan Junior High School",
     "nameTW": "中山國中",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1050,
         "nameTW": "中山國中"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1150,
         "nameTW": "忠孝復興"
-      }
-    ],
+    }],
     "nameEn": "Nanjing E. Rd.",
     "nameTW": "南京東路",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 760,
         "nameTW": "大安"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1130,
         "nameTW": "六張犁"
-      }
-    ],
+    }],
     "nameEn": "Technology Building",
     "nameTW": "科技大樓",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1130,
         "nameTW": "科技大樓"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 800,
         "nameTW": "麟光"
-      }
-    ],
+    }],
     "nameEn": "Liuzhangli",
     "nameTW": "六張犁",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 800,
         "nameTW": "六張犁"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1550,
         "nameTW": "辛亥"
-      }
-    ],
+    }],
     "nameEn": "Linguang",
     "nameTW": "麟光",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1550,
         "nameTW": "麟光"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 750,
         "nameTW": "萬芳醫院"
-      }
-    ],
+    }],
     "nameEn": "Xinhai",
     "nameTW": "辛亥",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 750,
         "nameTW": "辛亥"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 1200,
         "nameTW": "萬芳社區"
-      }
-    ],
+    }],
     "nameEn": "Wanfang Hospita",
     "nameTW": "萬芳醫院",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 1200,
         "nameTW": "萬芳醫院"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 590,
         "nameTW": "木柵"
-      }
-    ],
+    }],
     "nameEn": "Wanfang Community",
     "nameTW": "萬芳社區",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 590,
         "nameTW": "萬芳社區"
-      },
-      {
+    }, {
         "direction": [
-          15
+            15
         ],
         "distance": 810,
         "nameTW": "動物園"
-      }
-    ],
+    }],
     "nameEn": "Muzha",
     "nameTW": "木柵",
     "row": 7
-  },
-  {
+}, {
     "col": 16,
-    "detail": [
-      {
+    "detail": [{
         "direction": [
-          14
+            14
         ],
         "distance": 810,
         "nameTW": "木柵"
-      }
-    ],
+    }],
     "nameEn": "Taipei Zoo",
     "nameTW": "動物園",
     "row": 7
-  }
-]
+}]
